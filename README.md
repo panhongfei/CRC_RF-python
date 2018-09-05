@@ -1,2 +1,2 @@
-# MRF-python
+# MetaRF-python
 Colorectal cancer classifier
