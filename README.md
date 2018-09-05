@@ -1,2 +1,2 @@
-# CRC_RF-python
+# MRF-python
 Colorectal cancer classifier
